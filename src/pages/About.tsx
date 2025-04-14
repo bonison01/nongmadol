@@ -104,7 +104,7 @@ const About = () => {
         </div>
       </section>
       
-      {/* Our Team */}
+      {/* Our Team
       <section className="py-16">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center mb-12">
@@ -126,7 +126,7 @@ const About = () => {
               <h3 className="text-xl font-bold mb-1">Rahul Singh</h3>
               <p className="text-nongmadol-600 mb-3">Founder & Tea Master</p>
               <p className="text-gray-600 text-sm">
-                With over 15 years of experience in the tea industry, Rahul brings his passion and expertise to every blend.
+                With over 5 years of experience in the tea industry, Rahul brings his passion and expertise to every blend.
               </p>
             </div>
             
@@ -161,7 +161,7 @@ const About = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       
       {/* Visit Us */}
       <section className="py-16 bg-nongmadol-50">
